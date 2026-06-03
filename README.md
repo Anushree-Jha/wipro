@@ -1,6 +1,6 @@
 # Wipro Pre-Skill Training Program
 
-A heartfelt thank you to Wipro and all the mentors for providing this wonderful learning opportunity.
+A heartfelt thank you to Wipro and Great Learning and all the mentors for providing this wonderful learning opportunity.
 
 Throughout this program, I gained valuable knowledge in Java, Spring Boot, REST APIs, Microservices, Databases, JPA, Hibernate, Git, GitHub, Cloud Concepts, and DevOps fundamentals.
 
